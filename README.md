@@ -101,3 +101,11 @@ Ideas and improvements are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) and t
 ## License
 
 [MIT](LICENSE). Use it, change it, share it.
+
+---
+
+<div align="center">
+
+If this helped, a ⭐ makes it easier for the next person to find.
+
+</div>

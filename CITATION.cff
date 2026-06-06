@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Second Brain
+message: "If you use this or build on it, a star or a mention is appreciated."
+type: software
+authors:
+  - family-names: Takisaki
+    given-names: Paul
+repository-code: "https://github.com/paultaki/second-brain"
+url: "https://github.com/paultaki/second-brain"
+abstract: "A prompt that turns Claude Code and a plain-text vault into a self-organizing second brain: a long-term memory an AI can read, connect, and build on."
+keywords:
+  - second-brain
+  - claude-code
+  - obsidian
+  - personal-knowledge-management
+license: MIT
+date-released: "2026-06-06"
