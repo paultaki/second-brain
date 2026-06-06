@@ -66,6 +66,16 @@ Anything you have written is fuel:
 
 You drop them in, and Claude files and links them. The more you feed it, the more it knows about you, and the better its recall and its drafts become. It compounds.
 
+## Voice-first capture
+
+If you talk more than you type, this is the main on-ramp. Dictate a note with any voice-to-text tool, paste the raw dump in, and say `clean this voice note`. Claude tidies it without changing your meaning, files and links it, and does one important thing: it flags anything it might have misheard before ever treating it as your exact words.
+
+That last part matters. Voice-to-text slips on silence, names, and unclear audio. A second brain is only trustworthy if a quote attributed to you is actually something you said. So dictated notes start as drafts, and a line only becomes a cited quote once you confirm it. You get the speed of talking with the integrity of a written record.
+
+## Writing back in your voice
+
+Most second brains stop at recall. This one can close the loop. Give Claude a handful of things you have actually written and ask it to learn your voice. From then on, `draft in my voice` produces posts, emails, and replies that sound like you, grounded in what is already in your vault, not generic AI prose. Recall in, your voice out.
+
 ## Why it stays trustworthy
 
 - **It is plain text on your own disk.** No server, no account, no telemetry. You can read every file yourself, and leave any time by just keeping the folder.

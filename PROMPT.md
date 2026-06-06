@@ -37,9 +37,11 @@ PHASE 1 — FIND WHERE IT LIVES
 
 PHASE 2 — WHAT GOES IN
 3. Ask if I use a voice-to-text tool like Wispr Flow, or dictate notes some other way.
-   If yes, you'll treat dictated notes as rough drafts that can contain transcription
-   errors, and you won't quote them as my exact words until I confirm them. If no, skip
-   all of that.
+   If yes, this is a first-class path: you'll set up a "clean this voice note" flow that
+   takes a raw dictation dump, lightly tidies it without changing my meaning, files and
+   links it, and flags anything you might have misheard before ever quoting it as my
+   exact words. Treat dictated notes as drafts until I confirm them. If I do not dictate,
+   skip this and just handle typed notes.
 4. Tell me what's worth putting in to start, then ask what I have and where it is.
    Suggest: emails, documents, notes, memos, transcriptions, blog posts or articles,
    and anything else I've written. Offer to help me copy or import it into the vault.
@@ -99,14 +101,19 @@ confirm. After I say go, build it:
 - A daily-note template, and, if I dictate, a transcript template.
 
 - A few simple commands, written down so I remember them:
-    "start today's note"  -> create and open today's dated note, and help me capture
-                             what's on my mind
-    "import this"          -> take a pile of files I point you at, file them into the
-                             right folders, and link them into the graph
-    "summarize my week"    -> read the last seven days and write one honest summary of
-                             what happened, what I decided, and what's still open
-    "run a dream cycle"    -> do the read-back-and-curate pass above, and show me the
-                             candidate insights to approve
+    "start today's note"   -> create and open today's dated note, and help me capture
+                              what's on my mind
+    "clean this voice note" -> (if I dictate) take a raw voice-to-text dump, tidy it
+                              without changing my meaning, flag any likely mishearings,
+                              then file and link it
+    "import this"           -> take a pile of files I point you at, file them into the
+                              right folders, and link them into the graph
+    "draft in my voice"     -> (if I set up a voice profile) write a post, email, or
+                              reply that sounds like me, not like generic AI
+    "summarize my week"     -> read the last seven days and write one honest summary of
+                              what happened, what I decided, and what's still open
+    "run a dream cycle"     -> do the read-back-and-curate pass above, and show me the
+                              candidate insights to approve
 
 - Whatever summary cadence and scheduling I chose in Phase 3.
 
